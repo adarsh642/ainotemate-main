@@ -18,7 +18,7 @@ function Notemate() {
       return;
     }
 
-    const API_ENDPOINT = 'https://ai-notemake.vercel.app/api/chat';
+    const API_ENDPOINT = 'https://ai-notemake-main.vercel.app/api/chat';
 
     try {
       console.log("📢 Sending Request to API with content:", content);
